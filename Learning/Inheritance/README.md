@@ -1,1 +1,1 @@
-# While C# supports multiple inheritance, Java does NOT.
+### While C# supports multiple inheritance, Java does NOT.
